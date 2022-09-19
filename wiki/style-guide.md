@@ -54,10 +54,9 @@ def long_long_function_name(var_one, var_two
 
 ### Quoting
 
-Single quotes are preferred over double quotes for strings. If, however,
-the string contains a single quote, then double quotes should be used to
-avoid having to escape the single quote. Additionally, doc-strings or
-multi-line comments should use double quotes.
+Double quotes are preferred over single quotes for strings. If, however,
+the string contains a double quote, then single quotes should be used to
+avoid having to escape the double quote. 
 
 ### Naming Conventions
 
@@ -126,8 +125,8 @@ foo = longFunctionName(
 
 #### Quotes
 
-Single quotes should be used, unless the string contains a single quote. Then
-double quotes should be used to avoid having to escape the single quote.
+Like Python, in Missing Bracket, Javascript code should also use double quotes, unless a
+string contains double quotes, in which case single quotes should be used.
 
 ### JSX Conventions
 
