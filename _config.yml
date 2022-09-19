@@ -12,6 +12,9 @@ disable_edit: false
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
 show_wiki_pages_limit: 10
+
+# Logo image
+logo_url: assets/images/logo.png
 # (boolean) Enable/disable blog feature
 blog_feature: true
 # (boolean) Enable/disable wiki posts list in sidebar (needs blog_feature enabled)
